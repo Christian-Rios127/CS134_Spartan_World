@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Spartan World</string>
+    <string name="Logo_image_view_text">MiraCosta Collage Logo</string>
+    <string name="Swap_image_button_text">Swap image</string>
+    <string name="toast_text">This is sparta</string>
+</resources>
